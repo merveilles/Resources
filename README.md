@@ -10,4 +10,4 @@ The Achromatic Productivity Cult.
 
 | Name | Twitter | Website | Email | Instagram | GitHub |
 | ---- | ------- | ------- | ----- | --------- | ------ |
-| Marshall Bowers | [@maxdeviant](https://twitter.com/maxdeviant) | [maxdeviant.com](https://maxdeviant.com | elliott.codes@gmail.com | [maxdeviant](https://instagram.com/maxdeviant) | [maxdeviant](https://github.com/maxdeviant) |
+| Marshall Bowers | [@maxdeviant](https://twitter.com/maxdeviant) | [maxdeviant.com](https://maxdeviant.com) | elliott.codes@gmail.com | [maxdeviant](https://instagram.com/maxdeviant) | [maxdeviant](https://github.com/maxdeviant) |
