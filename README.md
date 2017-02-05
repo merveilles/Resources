@@ -14,3 +14,4 @@ The Achromatic Productivity Cult.
 | Devine Lu Linvega | [@neauoire](https://twitter.com/neauoire) | [xxiivv.com](http://xxiivv.com) | aliceffekt@gmail.com | [hundredrabbits](https://instagram.com/hundredrabbits) | [neauoire](https://github.com/neauoire) |
 | cblgh | [@cblgh](https://twitter.com/cblgh) | [cblgh.org](https://cblgh.org) | ? | ? | [cblgh](https://github.com/cblgh) |
 | ciel | [@jamiecrisman](https://twitter.com/jamiecrisman) | [longest.voyage](http://longest.voyage) | jamie@longest.voyage | [jamie.crisman](https://instagram.com/jamie.crisman) | [JamieCrisman](https://github.com/JamieCrisman) |
+| eelfroth | [@eelfroth](https://twitter.com/eelfroth) | [eelfroth.com](http://www.eelfroth.com) | jacob@eelfroth.com | | [eelfroth](https://github.com/eelfroth) |
