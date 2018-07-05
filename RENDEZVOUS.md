@@ -2,8 +2,6 @@
 
 <img src='RENDEZVOUS.jpg' width='600'/>
 
-## Meetup
-
 Let's meet in Nakano for coffee, in Tokyo.
 
 - **35.709573, 139.668173** — Shozo Park, Nakano
