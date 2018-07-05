@@ -2,12 +2,17 @@
 
 <img src='RENDEZVOUS.jpg' width='600'/>
 
-- Location: *35.709573, 139.668173* • Shozo Park, Nakano
-- Date: *19F10* • March 21st, 2019 9:00am
+- **35.709573, 139.668173** • Shozo Park, Nakano
+- **19F10** • March 21st, 2019 9:00am
 
 ## Meetup
 
 Let's meet in Nakano for coffee, in Tokyo.
+
+## Events
+
+- **CBLGH's Birthday**, more details soon.
+- [Night Cycling](http://wiki.xxiivv.com/JNC)
 
 ## Resources
 
