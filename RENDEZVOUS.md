@@ -6,13 +6,19 @@
 
 Let's meet in Nakano for coffee, in Tokyo.
 
-- **35.709573, 139.668173** • Shozo Park, Nakano
-- **19F10** • March 21st, 2019 9:00am
+- **35.709573, 139.668173** — Shozo Park, Nakano
+- **19F10** — March 21st, 2019 9:00am
 
 ## Events
 
 - **CBLGH's Birthday**, more details soon.
 - [Night Cycling](http://wiki.xxiivv.com/JNC)
+
+## RVSP
+
+Please enter the span of time when you'll be in the area.
+
+- [Neauoire](http://twitter.com/neauoire), Nov 2018 — May 2019
 
 ## Resources
 
@@ -20,5 +26,7 @@ Let's meet in Nakano for coffee, in Tokyo.
 - [Japan Trip Expense Breakdown](https://medium.com/@Letkma/japan-trip-expense-breakdown-1bb8f3dcac0e)
 
 ## Forum
+
+If you wanna share a guest house/AirBnB room with someone.
 
 - [Questions & Comments](https://github.com/merveilles/Resources/issues)
