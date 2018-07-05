@@ -18,3 +18,7 @@ Let's meet in Nakano for coffee, in Tokyo.
 
 - [Secret Tips for your Japan Trip](https://medium.com/@hangedmandesign/secret-and-undocumented-japan-trip-tips-f846fdfcee29), by Hangedman
 - [Japan Trip Expense Breakdown](https://medium.com/@Letkma/japan-trip-expense-breakdown-1bb8f3dcac0e)
+
+## Forum
+
+- [Questions & Comments](https://github.com/merveilles/Resources/issues)
