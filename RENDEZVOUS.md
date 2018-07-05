@@ -2,12 +2,12 @@
 
 <img src='RENDEZVOUS.jpg' width='600'/>
 
-- **35.709573, 139.668173** • Shozo Park, Nakano
-- **19F10** • March 21st, 2019 9:00am
-
 ## Meetup
 
 Let's meet in Nakano for coffee, in Tokyo.
+
+- **35.709573, 139.668173** • Shozo Park, Nakano
+- **19F10** • March 21st, 2019 9:00am
 
 ## Events
 
