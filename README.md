@@ -8,7 +8,7 @@ Merveilles is a community project aimed at the establishment of new ways of spea
 - [Merveilles Map](https://drive.google.com/open?id=1lvptOQshGziOsuNhGPlaQakrOTA), a map with the location of Merveilles.
 - [Twitter List](https://twitter.com/neauoire/lists/merveilles), a list of twitter handles.
 
-## Roster
+## Moderators
 
 | Entity              | Twitter                                           | Website                                  | Tracker                                   | Email                    | GitHub                                          |
 | ----                | -------                                           | -------                                  | -------                                   | -----                    | ------                                          |
