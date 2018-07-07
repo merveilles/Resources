@@ -8,6 +8,12 @@ This code of conduct applies to all Merveilles spaces, including the slack chann
 
 Some Merveilles spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
+### Consequences
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+If a participant engages in harassing behavior, moderators may take any action they deem appropriate, up to and including expulsion from all Merveilles spaces and identification of the participant as a harasser to other Merveilles members or the general public.
+
 ### Harassment includes
 
 - Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
@@ -27,7 +33,6 @@ Some Merveilles spaces may have additional rules in place, which will be made cl
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 - Publication of non-harassing private communication.
 - Merveilles prioritizes marginalized people’s safety over privileged people’s comfort. Moderators reserve the right not to act on complaints regarding:
-  - ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
   - Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
   - Communicating in a ‘tone’ you don’t find congenial
   - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
@@ -40,11 +45,5 @@ This code of conduct applies to Merveilles spaces, but if you are being harassed
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of Merveilles members or the general public. We will not name harassment victims without their affirmative consent.
-
-### Consequences
-
-Participants asked to stop any harassing behavior are expected to comply immediately.
-
-If a participant engages in harassing behavior, moderators may take any action they deem appropriate, up to and including expulsion from all Merveilles spaces and identification of the participant as a harasser to other Merveilles members or the general public.
+We will respect confidentiality requests for the purpose of protecting victims of abuse. It may be deemed necessary&mdash;for the protection of individuals outside our community or of the reputation of the community&mdash;to identify offenders of this Code to persons external to this community (including, where necessary, in public forum). We will not name harassment victims without their affirmative consent.
 
