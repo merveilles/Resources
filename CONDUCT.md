@@ -4,7 +4,7 @@
 
 Merveilles is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all Merveilles spaces, including [give a list of your spaces, eg "our mailing lists and IRC channel"], both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the [moderators](https://github.com/merveilles/Resources).
+This code of conduct applies to all Merveilles spaces, including the slack channel, repositories, and at local events, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the [moderators](https://github.com/merveilles/Resources).
 
 Some Merveilles spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
