@@ -11,6 +11,7 @@ Let's meet in Nakano for coffee, in Tokyo.
 
 - **CBLGH's Birthday**, March 21st.
 - [Night Cycling](http://wiki.xxiivv.com/JNC), March 22nd.
+- **Merveilles OST**, live music and video projections, March 24th.
 
 ## RVSP
 
