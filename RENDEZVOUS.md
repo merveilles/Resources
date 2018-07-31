@@ -13,11 +13,12 @@ Let's meet in Nakano for coffee, in Tokyo.
 - [Night Cycling](http://wiki.xxiivv.com/JNC), March 22nd.
 - **Merveilles OST**, live music and video projections, March 24th.
 
-## RVSP
+## RSVP
 
 Please enter the span of time when you'll be in the area.
 
 - [Neauoire](http://twitter.com/neauoire), Nov 2018 — May 2019
+- [cblgh](http://twitter.com/cblgh), March 2019
 
 ## Resources
 
