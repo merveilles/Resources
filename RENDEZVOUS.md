@@ -19,6 +19,7 @@ Please enter the span of time when you'll be in the area.
 
 - [Neauoire](http://twitter.com/neauoire), Nov 2018 — May 2019
 - [cblgh](http://twitter.com/cblgh), March 2019
+- [dormin](https://twitter.com/dormingray), Oct 2018 - Sep 2019
 
 ## Resources
 
