@@ -39,7 +39,7 @@ If a participant engages in harassing behavior, moderators may take any action t
 
 ### Reporting
 
-If you are being harassed by a member of Merveilles, notice that someone else is being harassed, or have any other concerns, please contact the moderators at [email address or other contact point]. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of Merveilles, notice that someone else is being harassed, or have any other concerns, please contact the moderators at *aliceffekt@gmail.com*. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to Merveilles spaces, but if you are being harassed by a member of Merveilles outside our spaces, we still want to know about it. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from Merveilles based on their past behavior, including behavior outside Merveilles spaces and behavior towards people who are not in Merveilles.
 
