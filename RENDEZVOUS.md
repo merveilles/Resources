@@ -24,6 +24,7 @@ Please enter the span of time when you'll be in the area.
 - [Neauoire](http://twitter.com/neauoire), Feb 2019 — 20**
 - [cblgh](http://twitter.com/cblgh), March 2019
 - [ESWAT](http://twitter.com/eswat), March 19 2019 - Apr 2 2019
+- [dormin](https://twitter.com/dormingray), Oct 2018 - Sep 2019
 
 ## Resources
 
