@@ -1,33 +1,41 @@
 program MerveillesIcon;
+
  var
   size: Integer;
   arc: Rect;
+  drawingRect: Rect;
+
 begin
- size := 50;
- showDrawing;
+
+ size := 70;
+ ShowDrawing;
+ SetRect(drawingRect, 60, 60, 60 + size * 5, 60 + size * 5);
+ SetDrawingRect(drawingRect);
+ PenPat(ltgray);
 { top }
- setRect(arc, 0, size, size * 2, size * 3);
- paintArc(arc, 0, 90);
- offsetRect(arc, size, 0);
- paintArc(arc, 0, 90);
- offsetRect(arc, size, 0);
- paintArc(arc, 0, -90);
- offsetRect(arc, size, 0);
- paintArc(arc, 0, -90);
+ SetRect(arc, 0, size, size * 2, size * 3);
+ PaintArc(arc, 0, 90);
+ OffSetRect(arc, size, 0);
+ PaintArc(arc, 0, 90);
+ OffSetRect(arc, size, 0);
+ PaintArc(arc, 0, -90);
+ OffSetRect(arc, size, 0);
+ PaintArc(arc, 0, -90);
 { bottom }
- offsetRect(arc, 0, size);
- paintArc(arc, 180, 90);
- offsetRect(arc, -size, 0);
- paintArc(arc, 180, 90);
- offsetRect(arc, -size, 0);
- paintArc(arc, 90, 90);
- offsetRect(arc, -size, 0);
- paintArc(arc, 90, 90);
+ OffSetRect(arc, 0, size);
+ PaintArc(arc, 180, 90);
+ OffSetRect(arc, -size, 0);
+ PaintArc(arc, 180, 90);
+ OffSetRect(arc, -size, 0);
+ PaintArc(arc, 90, 90);
+ OffSetRect(arc, -size, 0);
+ PaintArc(arc, 90, 90);
 { center }
- setRect(arc, size, size * 2, size * 2, size * 3);
- paintOval(arc);
- offsetRect(arc, size, 0);
- paintOval(arc);
- offsetRect(arc, size, 0);
- paintOval(arc);
+ SetRect(arc, size, size * 2, size * 2, size * 3);
+ PaintOval(arc);
+ OffSetRect(arc, size, 0);
+ PaintOval(arc);
+ OffSetRect(arc, size, 0);
+ PaintOval(arc);
+
 end.
