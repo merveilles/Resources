@@ -1,0 +1,41 @@
+/rarcmove {
+  /r exch def
+  gsave
+  r rotate
+  0 0 moveto
+  0 0 150 0 90 arc closepath
+  fill
+  grestore
+  150 0 translate
+} def
+
+/circmove {
+  0 0 75 0 360 arc closepath
+  fill
+  150 0 translate
+} def
+
+72 450 translate
+gsave
+  0 rarcmove
+  0 rarcmove
+  90 rarcmove
+  90 rarcmove
+grestore
+
+75 -75 translate
+gsave
+  circmove
+  circmove
+  circmove
+grestore
+
+-75 -75 translate
+gsave
+  270 rarcmove
+  270 rarcmove
+  180 rarcmove
+  180 rarcmove
+grestore
+
+showpage
